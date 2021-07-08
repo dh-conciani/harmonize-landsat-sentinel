@@ -1,0 +1,10 @@
+conda install -c r r-base
+conda install -c r r-irkernel
+
+#R
+#IRkernel::installspec(user=FALSE)
+
+conda install -c r rpy2
+conda install -c conda-forge r-raster
+
+

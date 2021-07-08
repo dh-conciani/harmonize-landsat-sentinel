@@ -1,0 +1,321 @@
+2020-07-16 16:57:25,322 :: root :: ERROR :: Upload of L1C_T20LPR_A013092_20190908T142754_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:57:39,152 :: root :: ERROR :: Upload of L1C_T20LPR_A013235_20190918T143240_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:57:52,715 :: root :: ERROR :: Upload of L1C_T20LPR_A013378_20190928T142753_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:58:05,586 :: root :: ERROR :: Upload of L1C_T20LPR_A021929_20190903T142959_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:58:19,392 :: root :: ERROR :: Upload of L1C_T20LPR_A022072_20190913T142751_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 17:00:47,353 :: root :: ERROR :: Upload of L1C_T20LPR_A013092_20190908T142754_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:00,061 :: root :: ERROR :: Upload of L1C_T20LPR_A013235_20190918T143240_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:13,299 :: root :: ERROR :: Upload of L1C_T20LPR_A013378_20190928T142753_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:27,876 :: root :: ERROR :: Upload of L1C_T20LPR_A021929_20190903T142959_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:42,080 :: root :: ERROR :: Upload of L1C_T20LPR_A022072_20190913T142751_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-17 12:22:43,857 :: root :: ERROR :: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\*.tif does not contain any tif images.

@@ -1,0 +1,2030 @@
+2020-07-16 15:31:06,000 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 15:31:06,000 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 15:31:07,849 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 15:31:07,850 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 15:31:09,006 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 15:31:10,434 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 15:31:28,674 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 15:31:41,381 :: root :: INFO :: Browser closed.
+2020-07-16 15:31:41,381 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 15:31:41,694 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 15:31:41,709 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 15:31:42,436 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 15:31:42,655 :: root :: WARNING :: Collection already exists and contains all assets provided for upload. Exiting ...
+2020-07-16 15:34:54,744 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 15:34:54,760 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 15:34:56,538 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 15:34:56,539 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 15:34:57,712 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 15:34:58,522 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 15:35:05,689 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 15:35:26,368 :: root :: INFO :: Browser closed.
+2020-07-16 15:35:26,380 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 15:35:26,565 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 15:35:26,569 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 15:35:27,194 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 15:35:28,288 :: root :: INFO :: Processing image 1 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 15:35:36,586 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:35:37,902 :: root :: INFO :: Processing image 2 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 15:35:45,139 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:35:45,838 :: root :: INFO :: Processing image 3 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 15:35:52,190 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:35:53,070 :: root :: INFO :: Processing image 4 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 15:35:59,690 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:36:00,312 :: root :: INFO :: Processing image 5 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 15:36:06,902 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:36:07,630 :: root :: INFO :: Processing image 6 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LC08_L1TP_231066_20190906_20190917_01_T1_BOA_GEOM.tif
+2020-07-16 15:36:16,384 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:36:17,072 :: root :: INFO :: Processing image 7 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LE07_L1TP_231066_20190914_20191028_01_T1_BOA_GEOM.tif
+2020-07-16 15:36:23,498 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:36:24,277 :: root :: INFO :: Processing image 8 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LE07_L1TP_231066_20190930_20191026_01_T1_BOA_GEOM.tif
+2020-07-16 15:36:31,435 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 15:36:32,166 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/0c627ac3-995e-491a-8254-b1a541ab1e91?alt=json
+2020-07-16 15:36:32,556 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/01c07a11-b9c2-4c8f-814a-f0a02c30d16a?alt=json
+2020-07-16 15:36:33,157 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/fbee99b2-c502-4638-b1b5-63f8ce49d86d?alt=json
+2020-07-16 15:36:33,574 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/2e1b9ce7-f2ad-4fce-b5c1-15246355daba?alt=json
+2020-07-16 15:36:33,838 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/bca40745-62ad-4e20-b6d1-0df6a637b89a?alt=json
+2020-07-16 15:36:34,148 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/4cffc59f-473b-4cbd-8a57-c89ea5c4ba13?alt=json
+2020-07-16 15:36:34,825 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/a5a19854-3911-421f-a4ca-e54ed74558e6?alt=json
+2020-07-16 15:36:35,160 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/77c1b5ef-3d0b-4d3e-a3ec-b60bc4406ce7?alt=json
+2020-07-16 16:08:35,223 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:08:35,223 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:08:37,323 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:08:37,324 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:08:38,364 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:08:39,242 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:08:40,071 :: root :: WARNING :: Property name %s is invalid. Special properties [system:description, system:provider_url, system:tags, system:time_end, system:time_start, system:title] are allowed; other property keys must contain only letters, digits and underscores.
+2020-07-16 16:10:36,852 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:10:36,853 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:10:38,692 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:10:38,693 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:10:39,889 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:10:41,260 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:10:41,682 :: root :: WARNING :: Property name %s is invalid. Special properties [system:description, system:provider_url, system:tags, system:time_end, system:time_start, system:title] are allowed; other property keys must contain only letters, digits and underscores.
+2020-07-16 16:12:00,249 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:12:00,250 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:12:02,073 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:12:02,073 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:12:03,170 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:12:04,687 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:12:09,903 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 16:12:31,491 :: root :: INFO :: Browser closed.
+2020-07-16 16:12:33,571 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:12:33,834 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_TI2F&prettyPrint=false&alt=json
+2020-07-16 16:12:35,085 :: root :: INFO :: New collection users/shps/PNCA_TI2F created
+2020-07-16 16:12:35,100 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:12:35,288 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 16:12:35,912 :: root :: INFO :: Processing image 1 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 16:12:35,912 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013092_20190908T142754_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,913 :: root :: INFO :: Processing image 2 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 16:12:35,913 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013235_20190918T143240_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,913 :: root :: INFO :: Processing image 3 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 16:12:35,913 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013378_20190928T142753_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,914 :: root :: INFO :: Processing image 4 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 16:12:35,914 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A021929_20190903T142959_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,914 :: root :: INFO :: Processing image 5 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 16:12:35,914 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A022072_20190913T142751_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,914 :: root :: INFO :: Processing image 6 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LC08_L1TP_231066_20190906_20190917_01_T1_BOA_GEOM.tif
+2020-07-16 16:12:35,914 :: root :: WARNING :: No metadata exists for image LC08_L1TP_231066_20190906_20190917_01_T1_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,915 :: root :: INFO :: Processing image 7 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LE07_L1TP_231066_20190914_20191028_01_T1_BOA_GEOM.tif
+2020-07-16 16:12:35,915 :: root :: WARNING :: No metadata exists for image LE07_L1TP_231066_20190914_20191028_01_T1_BOA_GEOM: it will not be ingested
+2020-07-16 16:12:35,915 :: root :: INFO :: Processing image 8 out of 8: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics\LE07_L1TP_231066_20190930_20191026_01_T1_BOA_GEOM.tif
+2020-07-16 16:12:35,915 :: root :: WARNING :: No metadata exists for image LE07_L1TP_231066_20190930_20191026_01_T1_BOA_GEOM: it will not be ingested
+2020-07-16 16:21:05,138 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:21:05,138 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:21:07,015 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:21:07,015 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:21:08,211 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:21:09,603 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:21:14,718 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 16:21:34,714 :: root :: INFO :: Browser closed.
+2020-07-16 16:21:36,790 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:21:36,973 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 16:21:36,977 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:21:37,280 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 16:21:37,952 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 16:21:37,952 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013092_20190908T142754_BOA_GEOM: it will not be ingested
+2020-07-16 16:21:37,953 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 16:21:37,953 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013235_20190918T143240_BOA_GEOM: it will not be ingested
+2020-07-16 16:21:37,953 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 16:21:37,953 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013378_20190928T142753_BOA_GEOM: it will not be ingested
+2020-07-16 16:21:37,953 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 16:21:37,953 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A021929_20190903T142959_BOA_GEOM: it will not be ingested
+2020-07-16 16:21:37,954 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 16:21:37,954 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A022072_20190913T142751_BOA_GEOM: it will not be ingested
+2020-07-16 16:46:41,967 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:46:41,968 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:46:44,038 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:46:44,038 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:46:45,181 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:46:46,602 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:47:49,130 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 16:47:57,767 :: root :: INFO :: Browser closed.
+2020-07-16 16:48:56,789 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:48:56,789 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:48:58,595 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:48:58,596 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:48:59,640 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:49:00,432 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:49:09,168 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 16:49:29,650 :: root :: INFO :: Browser closed.
+2020-07-16 16:49:31,762 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:49:31,921 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 16:49:31,937 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:49:32,980 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 16:49:33,293 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 16:49:33,293 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013092_20190908T142754_BOA_GEOM: it will not be ingested
+2020-07-16 16:49:33,293 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 16:49:33,294 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013235_20190918T143240_BOA_GEOM: it will not be ingested
+2020-07-16 16:49:33,294 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 16:49:33,294 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A013378_20190928T142753_BOA_GEOM: it will not be ingested
+2020-07-16 16:49:33,294 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 16:49:33,294 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A021929_20190903T142959_BOA_GEOM: it will not be ingested
+2020-07-16 16:49:33,295 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 16:49:33,295 :: root :: WARNING :: No metadata exists for image L1C_T20LPR_A022072_20190913T142751_BOA_GEOM: it will not be ingested
+2020-07-16 16:56:42,663 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:56:42,666 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:56:44,509 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:56:44,509 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:56:45,558 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:56:47,064 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 16:56:54,921 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 16:57:08,057 :: root :: INFO :: Browser closed.
+2020-07-16 16:57:10,112 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:57:10,409 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 16:57:10,409 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 16:57:10,612 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 16:57:11,098 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 16:57:18,730 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:20,953 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:25,135 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:25,322 :: root :: ERROR :: Upload of L1C_T20LPR_A013092_20190908T142754_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:57:25,322 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 16:57:32,632 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:34,820 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:38,996 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:39,152 :: root :: ERROR :: Upload of L1C_T20LPR_A013235_20190918T143240_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:57:39,152 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 16:57:46,157 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:48,350 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:52,541 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:57:52,715 :: root :: ERROR :: Upload of L1C_T20LPR_A013378_20190928T142753_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:57:52,721 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 16:57:59,014 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:01,169 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:05,367 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:05,586 :: root :: ERROR :: Upload of L1C_T20LPR_A021929_20190903T142959_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:58:05,586 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 16:58:12,819 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:15,021 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:19,201 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 16:58:19,392 :: root :: ERROR :: Upload of L1C_T20LPR_A022072_20190913T142751_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Property key "system:time_start" is invalid. Property keys must contain only letters, digits, and underscores.
+2020-07-16 16:59:34,572 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:59:34,573 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:59:36,580 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 16:59:36,581 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 16:59:37,674 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 16:59:38,531 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:00:13,638 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:00:29,602 :: root :: INFO :: Browser closed.
+2020-07-16 17:00:31,637 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:00:32,443 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 17:00:32,446 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:00:32,637 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 17:00:32,977 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 17:00:40,669 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:00:42,874 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:00:47,062 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:00:47,353 :: root :: ERROR :: Upload of L1C_T20LPR_A013092_20190908T142754_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:00:47,356 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 17:00:53,448 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:00:55,672 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:00:59,870 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:00,061 :: root :: ERROR :: Upload of L1C_T20LPR_A013235_20190918T143240_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:00,063 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 17:01:06,686 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:08,866 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:13,044 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:13,299 :: root :: ERROR :: Upload of L1C_T20LPR_A013378_20190928T142753_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:13,300 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 17:01:21,253 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:23,488 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:27,697 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:27,876 :: root :: ERROR :: Upload of L1C_T20LPR_A021929_20190903T142959_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:01:27,877 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 17:01:35,483 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:37,673 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:41,865 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:01:42,080 :: root :: ERROR :: Upload of L1C_T20LPR_A022072_20190913T142751_BOA_GEOM has failed.
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 345, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\oauth2client\_helpers.py", line 133, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\http.py", line 842, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json returned "Invalid value specified for property 'footprint'.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 126, in upload
+    task_id = __start_ingestion_task(asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 212, in call
+    raise attempt.get()
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 247, in get
+    six.reraise(self.value[0], self.value[1], self.value[2])
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\six.py", line 703, in reraise
+    raise value
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\retrying.py", line 200, in call
+    attempt = Attempt(fn(*args, **kwargs), attempt_number, False)
+  File "c:\users\bsd\desktop\arosics\gee-atmcorr-s2-master\gee_asset_manager-master\gee_asset_manager\batch_uploader.py", line 195, in __start_ingestion_task
+    _ = ee.data.startIngestion(task_id, asset_request)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 1527, in startIngestion
+    num_retries=num_retries)
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\ee\data.py", line 347, in _execute_cloud_call
+    raise _translate_cloud_exception(e)
+ee.ee_exception.EEException: Invalid value specified for property 'footprint'.
+2020-07-16 17:03:06,164 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:03:06,165 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:03:07,999 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:03:07,999 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:03:09,133 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:03:09,931 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:03:15,402 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:03:24,178 :: root :: INFO :: Browser closed.
+2020-07-16 17:03:46,863 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:03:46,863 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:03:48,675 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:03:48,676 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:03:49,767 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:03:50,817 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:04:05,144 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:04:24,304 :: root :: INFO :: Browser closed.
+2020-07-16 17:04:26,384 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:04:26,573 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 17:04:26,573 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:04:27,187 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 17:04:27,515 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 17:04:34,080 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:04:34,691 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 17:04:41,363 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:04:42,131 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 17:04:50,638 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:04:51,420 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 17:04:58,324 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:04:59,051 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 17:05:05,284 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:05:06,106 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/5f376886-a0be-4220-8442-72c4f246ea87?alt=json
+2020-07-16 17:05:06,372 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/cdaec522-b927-41af-bed6-2b07fa9d693f?alt=json
+2020-07-16 17:05:06,700 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/586e7c3e-4ed7-4a6a-8e50-1f8c9a63e3d0?alt=json
+2020-07-16 17:05:07,380 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/58ce1f40-74e0-4935-a6ca-a08f12039e9b?alt=json
+2020-07-16 17:05:07,707 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/f3a01cdd-af7a-4123-ae7a-9f020c1ad8be?alt=json
+2020-07-16 17:09:27,116 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:09:27,116 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:09:29,219 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:09:29,220 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:09:30,407 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:09:31,811 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:09:41,252 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:09:50,208 :: root :: INFO :: Browser closed.
+2020-07-16 17:10:16,179 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:10:16,180 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:10:18,000 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:10:18,000 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:10:19,128 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:10:19,925 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:10:38,673 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:10:46,592 :: urllib3.connectionpool :: WARNING :: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))': /session/49b7bd97efd224726b1cf107f139c133/window
+2020-07-16 17:13:44,839 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:13:44,840 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:13:46,619 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:13:46,620 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:13:47,674 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:13:48,447 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:14:01,665 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:14:10,665 :: root :: INFO :: Browser closed.
+2020-07-16 17:14:17,908 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:14:17,910 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:14:19,873 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 17:14:19,874 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 17:14:20,928 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 17:14:22,838 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 17:14:28,866 :: root :: INFO :: Running the browser in normal mode
+2020-07-16 17:14:52,390 :: root :: INFO :: Browser closed.
+2020-07-16 17:14:54,461 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:14:54,617 :: root :: WARNING :: Collection users/shps/PNCA_TI2F already exists
+2020-07-16 17:14:54,632 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F?prettyPrint=false&alt=json
+2020-07-16 17:14:55,272 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_TI2F:listAssets?alt=json
+2020-07-16 17:14:55,653 :: root :: INFO :: Processing image 1 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-16 17:15:03,057 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:15:03,826 :: root :: INFO :: Processing image 2 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-16 17:15:10,841 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:15:11,671 :: root :: INFO :: Processing image 3 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-16 17:15:18,625 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:15:19,284 :: root :: INFO :: Processing image 4 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-16 17:15:26,304 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:15:26,997 :: root :: INFO :: Processing image 5 out of 5: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-16 17:15:34,618 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-16 17:15:35,375 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/659fdce5-f2fc-4999-8fba-5ce04a1e93f9?alt=json
+2020-07-16 17:15:35,628 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/23f1046e-7cf2-40da-aeeb-b390dd2cd477?alt=json
+2020-07-16 17:15:35,934 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/5be8d512-ea74-4975-94b9-dbc781d5f9c2?alt=json
+2020-07-16 17:15:36,253 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/b8ab6449-3fa5-4262-bb39-b40c96571e3e?alt=json
+2020-07-16 17:15:36,812 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/b98e9df2-0c6a-457c-b7b8-fd4a93347ab5?alt=json
+2020-07-17 12:22:38,897 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:22:38,897 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:22:40,666 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:22:40,666 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:22:41,848 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-17 12:22:43,469 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-17 12:22:43,857 :: root :: ERROR :: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/arosics/sentinel\*.tif does not contain any tif images.
+2020-07-17 12:23:16,250 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:23:16,250 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:23:18,111 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:23:18,111 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:23:19,222 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-17 12:23:20,584 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-17 12:23:51,491 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:23:51,491 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:23:53,383 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:23:53,383 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:23:54,479 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-17 12:23:55,281 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-17 12:24:19,621 :: root :: INFO :: Running the browser in normal mode
+2020-07-17 12:24:41,414 :: root :: INFO :: Browser closed.
+2020-07-17 12:24:43,525 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel?prettyPrint=false&alt=json
+2020-07-17 12:24:43,759 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_sentinel&prettyPrint=false&alt=json
+2020-07-17 12:24:44,849 :: root :: INFO :: New collection users/shps/PNCA_sentinel created
+2020-07-17 12:24:44,854 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel?prettyPrint=false&alt=json
+2020-07-17 12:24:45,176 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel:listAssets?alt=json
+2020-07-17 12:24:45,966 :: root :: INFO :: Processing image 1 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012663_20190809T142759_BOA_GEOM.tif
+2020-07-17 12:24:53,604 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:24:54,138 :: root :: INFO :: Processing image 2 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012806_20190819T142758_BOA_GEOM.tif
+2020-07-17 12:25:00,826 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:01,282 :: root :: INFO :: Processing image 3 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012949_20190829T142756_BOA_GEOM.tif
+2020-07-17 12:25:08,595 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:09,042 :: root :: INFO :: Processing image 4 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-17 12:25:16,255 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:16,688 :: root :: INFO :: Processing image 5 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-17 12:25:23,781 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:24,342 :: root :: INFO :: Processing image 6 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-17 12:25:30,962 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:31,405 :: root :: INFO :: Processing image 7 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021500_20190804T143101_BOA_GEOM.tif
+2020-07-17 12:25:38,438 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:38,982 :: root :: INFO :: Processing image 8 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021643_20190814T142756_BOA_GEOM.tif
+2020-07-17 12:25:45,693 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:46,192 :: root :: INFO :: Processing image 9 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021786_20190824T142754_BOA_GEOM.tif
+2020-07-17 12:25:53,207 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:25:53,813 :: root :: INFO :: Processing image 10 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-17 12:26:01,138 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:26:01,611 :: root :: INFO :: Processing image 11 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-17 12:26:08,724 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:26:09,260 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/3b01050e-092d-4fe8-a83a-16459d523b7f?alt=json
+2020-07-17 12:26:09,587 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/96dc1b9e-a6db-4736-b675-be4381abc855?alt=json
+2020-07-17 12:26:10,140 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/b58cc986-7fd5-4e5f-bbaf-a3e72f87b266?alt=json
+2020-07-17 12:26:10,417 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/0220e62d-1514-4dd4-9ce5-66de1c78dc59?alt=json
+2020-07-17 12:26:10,667 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/6d2359f4-32de-414b-ae06-3abee695098a?alt=json
+2020-07-17 12:26:11,108 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/fcb65cd3-81b6-43f3-87bf-bdaa06e0ba6e?alt=json
+2020-07-17 12:26:11,350 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/1f656717-51d9-4344-9e24-91f046eb93b5?alt=json
+2020-07-17 12:26:11,651 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/f231926b-f881-40df-b19d-ab1ded0ef333?alt=json
+2020-07-17 12:26:12,327 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/0204b505-b56e-4a8c-849c-7ac9e56a5217?alt=json
+2020-07-17 12:26:12,648 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/409b19f1-eb4e-4460-b9f0-cf59ba7c095b?alt=json
+2020-07-17 12:26:13,310 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/0e9b4f17-cb41-4a9c-a072-88bd17eedc8e?alt=json
+2020-07-17 12:30:49,339 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:30:49,339 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:30:51,341 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-17 12:30:51,341 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-17 12:30:52,391 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-17 12:30:53,219 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-17 12:31:06,066 :: root :: INFO :: Running the browser in normal mode
+2020-07-17 12:31:54,218 :: root :: INFO :: Browser closed.
+2020-07-17 12:31:56,309 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat?prettyPrint=false&alt=json
+2020-07-17 12:31:56,481 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_landsat&prettyPrint=false&alt=json
+2020-07-17 12:31:57,313 :: root :: INFO :: New collection users/shps/PNCA_landsat created
+2020-07-17 12:31:57,313 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat?prettyPrint=false&alt=json
+2020-07-17 12:31:57,513 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat:listAssets?alt=json
+2020-07-17 12:31:58,132 :: root :: INFO :: Processing image 1 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat\LC08_L1TP_231066_20190805_20190820_01_T1_BOA_GEOM.tif
+2020-07-17 12:32:03,145 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:32:03,719 :: root :: INFO :: Processing image 2 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat\LC08_L1TP_231066_20190821_20190903_01_T1_BOA_GEOM.tif
+2020-07-17 12:32:09,053 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:32:09,653 :: root :: INFO :: Processing image 3 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat\LC08_L1TP_231066_20190906_20190917_01_T1_BOA_GEOM.tif
+2020-07-17 12:32:14,849 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-17 12:32:15,468 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/3422b32c-124c-4d57-adea-19fa7251f1d4?alt=json
+2020-07-17 12:32:15,709 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/e07e5c0b-bda3-4adf-92fd-ae203d098e75?alt=json
+2020-07-17 12:32:16,007 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/a4454ae3-b3de-461e-94cd-a0d1de5f643f?alt=json
+2020-07-22 10:14:05,060 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:14:05,060 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:14:07,196 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:14:07,196 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:14:08,388 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-22 10:14:09,764 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-22 10:14:17,922 :: root :: INFO :: Running the browser in normal mode
+2020-07-22 10:14:38,777 :: root :: INFO :: Browser closed.
+2020-07-22 10:14:40,892 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel?prettyPrint=false&alt=json
+2020-07-22 10:14:41,213 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_sentinel&prettyPrint=false&alt=json
+2020-07-22 10:14:42,078 :: root :: INFO :: New collection users/shps/PNCA_sentinel created
+2020-07-22 10:14:42,082 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel?prettyPrint=false&alt=json
+2020-07-22 10:14:42,415 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_sentinel:listAssets?alt=json
+2020-07-22 10:14:42,600 :: root :: INFO :: Processing image 1 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012663_20190809T142759_BOA_GEOM.tif
+2020-07-22 10:14:52,321 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:14:52,824 :: root :: INFO :: Processing image 2 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012806_20190819T142758_BOA_GEOM.tif
+2020-07-22 10:15:00,493 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:01,049 :: root :: INFO :: Processing image 3 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A012949_20190829T142756_BOA_GEOM.tif
+2020-07-22 10:15:07,180 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:07,768 :: root :: INFO :: Processing image 4 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013092_20190908T142754_BOA_GEOM.tif
+2020-07-22 10:15:14,177 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:14,721 :: root :: INFO :: Processing image 5 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013235_20190918T143240_BOA_GEOM.tif
+2020-07-22 10:15:21,082 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:21,561 :: root :: INFO :: Processing image 6 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A013378_20190928T142753_BOA_GEOM.tif
+2020-07-22 10:15:29,261 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:29,783 :: root :: INFO :: Processing image 7 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021500_20190804T143101_BOA_GEOM.tif
+2020-07-22 10:15:36,436 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:36,907 :: root :: INFO :: Processing image 8 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021643_20190814T142756_BOA_GEOM.tif
+2020-07-22 10:15:42,689 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:43,304 :: root :: INFO :: Processing image 9 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021786_20190824T142754_BOA_GEOM.tif
+2020-07-22 10:15:48,711 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:49,252 :: root :: INFO :: Processing image 10 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A021929_20190903T142959_BOA_GEOM.tif
+2020-07-22 10:15:54,999 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:15:55,564 :: root :: INFO :: Processing image 11 out of 11: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/sentinel\L1C_T20LPR_A022072_20190913T142751_BOA_GEOM.tif
+2020-07-22 10:16:01,390 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:16:01,847 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/5c6dd220-38f1-4fa0-83b7-4248045f1ca1?alt=json
+2020-07-22 10:16:02,161 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/40bb7c9b-e226-4a65-9703-25cabd317ff4?alt=json
+2020-07-22 10:16:02,866 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/1945f18c-5b2e-41f7-aa3c-88cce830c933?alt=json
+2020-07-22 10:16:03,112 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/6ad19d1c-5ef0-4745-bb91-5c555e61563c?alt=json
+2020-07-22 10:16:03,406 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/f0f6edf2-be15-407e-9bac-37ef7c124960?alt=json
+2020-07-22 10:16:03,726 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/2657b577-49da-424e-9268-23095fae4f8e?alt=json
+2020-07-22 10:16:04,103 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/2f3e0488-36ce-4d7d-b05f-cf79d9805b36?alt=json
+2020-07-22 10:16:04,699 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/35f6f55d-22e9-4809-82eb-b3195091d347?alt=json
+2020-07-22 10:16:04,947 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/e186aabc-4136-40c7-bee4-aebcaa19e698?alt=json
+2020-07-22 10:16:05,565 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/b390faaa-eb0b-4c3d-aedf-53cab6430f3d?alt=json
+2020-07-22 10:16:05,873 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/a22c0f05-2900-4c57-9a35-f0cc14a7f2a4?alt=json
+2020-07-22 10:16:55,776 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:16:55,778 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:16:57,836 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:16:57,836 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:16:58,871 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-22 10:17:00,418 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-22 10:17:09,457 :: root :: INFO :: Running the browser in normal mode
+2020-07-22 10:17:27,527 :: root :: INFO :: Browser closed.
+2020-07-22 10:17:27,543 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat7?prettyPrint=false&alt=json
+2020-07-22 10:17:27,730 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_landsat7&prettyPrint=false&alt=json
+2020-07-22 10:17:28,559 :: root :: INFO :: New collection users/shps/PNCA_landsat7 created
+2020-07-22 10:17:28,559 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat7?prettyPrint=false&alt=json
+2020-07-22 10:17:30,889 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat7:listAssets?alt=json
+2020-07-22 10:17:31,061 :: root :: INFO :: Processing image 1 out of 4: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat7\LE07_L1TP_231066_20190813_20190908_01_T1_BOA_GEOM.tif
+2020-07-22 10:17:35,079 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:17:35,641 :: root :: INFO :: Processing image 2 out of 4: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat7\LE07_L1TP_231066_20190829_20190924_01_T1_BOA_GEOM.tif
+2020-07-22 10:17:39,610 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:17:40,159 :: root :: INFO :: Processing image 3 out of 4: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat7\LE07_L1TP_231066_20190914_20191028_01_T1_BOA_GEOM.tif
+2020-07-22 10:17:45,603 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:17:46,149 :: root :: INFO :: Processing image 4 out of 4: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat7\LE07_L1TP_231066_20190930_20191026_01_T1_BOA_GEOM.tif
+2020-07-22 10:17:49,601 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:17:50,134 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/5ef192bc-6eae-43a1-81b1-e081ad6bc6d0?alt=json
+2020-07-22 10:17:50,384 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/76adb64e-674c-49ce-9db7-a8f8ec03f4ff?alt=json
+2020-07-22 10:17:50,665 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/84fc3022-b6a6-4c93-86bc-b3173611057c?alt=json
+2020-07-22 10:17:51,393 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/405aaf6e-c524-4d16-9ba4-5c0a8295f6c2?alt=json
+2020-07-22 10:19:30,432 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:19:30,434 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:19:32,234 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-22 10:19:32,235 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-22 10:19:33,451 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-22 10:19:35,051 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-22 10:19:47,905 :: root :: INFO :: Running the browser in normal mode
+2020-07-22 10:20:09,474 :: root :: INFO :: Browser closed.
+2020-07-22 10:20:11,585 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat8?prettyPrint=false&alt=json
+2020-07-22 10:20:11,749 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets?assetId=users%2Fshps%2FPNCA_landsat8&prettyPrint=false&alt=json
+2020-07-22 10:20:12,483 :: root :: INFO :: New collection users/shps/PNCA_landsat8 created
+2020-07-22 10:20:12,486 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat8?prettyPrint=false&alt=json
+2020-07-22 10:20:12,784 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps/PNCA_landsat8:listAssets?alt=json
+2020-07-22 10:20:13,475 :: root :: INFO :: Processing image 1 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat8\LC08_L1TP_231066_20190805_20190820_01_T1_BOA_GEOM.tif
+2020-07-22 10:20:18,241 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:20:18,756 :: root :: INFO :: Processing image 2 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat8\LC08_L1TP_231066_20190821_20190903_01_T1_BOA_GEOM.tif
+2020-07-22 10:20:23,338 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:20:23,875 :: root :: INFO :: Processing image 3 out of 3: C:/Users/BSD/Desktop/arosics/gee-atmcorr-S2-master/images/2_arosics_GEOM/landsat8\LC08_L1TP_231066_20190906_20190917_01_T1_BOA_GEOM.tif
+2020-07-22 10:20:28,533 :: googleapiclient.discovery :: INFO :: URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:import?alt=json
+2020-07-22 10:20:29,054 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/43e589a4-c79c-47a6-aa2d-69ccc69c93c4?alt=json
+2020-07-22 10:20:29,335 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/58d26515-3364-461f-808a-9b231a465e56?alt=json
+2020-07-22 10:20:29,569 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/operations/6f715471-b9fc-4eab-b192-fb66b498ab1a?alt=json

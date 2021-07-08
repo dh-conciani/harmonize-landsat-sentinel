@@ -1,0 +1,362 @@
+2020-07-16 14:48:16,621 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:48:16,636 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:48:18,635 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:48:33,335 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:48:34,496 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:49:40,083 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:49:40,083 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:49:41,992 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:49:41,992 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:49:43,061 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:49:43,879 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 14:49:47,283 :: google.auth.compute_engine._metadata :: INFO :: Compute Engine Metadata server unavailable onattempt 1 of 3
+2020-07-16 14:49:50,285 :: google.auth.compute_engine._metadata :: INFO :: Compute Engine Metadata server unavailable onattempt 2 of 3
+2020-07-16 14:49:53,285 :: google.auth.compute_engine._metadata :: INFO :: Compute Engine Metadata server unavailable onattempt 3 of 3
+2020-07-16 14:50:46,228 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:50:46,228 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:50:48,294 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:50:48,299 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:50:49,366 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:50:50,235 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 14:52:16,335 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:52:16,335 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:52:18,152 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:52:18,156 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:52:19,305 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:52:20,858 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 14:52:40,538 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:52:40,538 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:52:42,297 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:52:42,297 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:52:43,344 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:52:44,355 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json
+2020-07-16 14:54:42,086 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:54:42,086 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:54:44,057 :: googleapiclient.discovery_cache :: WARNING :: file_cache is unavailable when using oauth2client >= 4.0.0
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\Users\BSD\anaconda3\envs\arosics\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2020-07-16 14:54:44,057 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/$discovery/rest?version=v1alpha&prettyPrint=false
+2020-07-16 14:54:45,247 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/algorithms?prettyPrint=false&alt=json
+2020-07-16 14:54:46,957 :: googleapiclient.discovery :: INFO :: URL being requested: GET https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/assets/users/shps?prettyPrint=false&alt=json

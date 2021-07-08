@@ -1,0 +1,10 @@
+earthengine_api
+requests
+retrying
+beautifulsoup4
+requests_toolbelt
+pytest
+future
+google-cloud-storage
+chromedriver-binary
+selenium
